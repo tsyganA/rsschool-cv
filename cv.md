@@ -2,7 +2,7 @@ RS-SCHOOL CV
 Anton Tsyhan
 Junior Frontend Developer
 
-My Contact Info
+My Contact Info:
 Email: tsygan199@gmail.com
 
 Phone: +375 (29) 767-94-10
