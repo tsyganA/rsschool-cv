@@ -9,7 +9,7 @@ Phone: +375 (29) 767-94-10
 
 Location: Minsk, Belarus
 
-About me
+About me:
 I want to become a Frontend Developer.
 
 Skills and Proficiency:
